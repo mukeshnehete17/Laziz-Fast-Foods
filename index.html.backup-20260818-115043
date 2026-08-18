@@ -159,7 +159,7 @@ html.laziz-loading body { overflow: hidden; }
 		window.setTimeout(hideLoader, 350);
 	}, false);
 	window.addEventListener('load', hideLoader, false);
-	window.setTimeout(hideLoader, 2000);
+	window.setTimeout(hideLoader, 2500);
 })();
 </script>
 		<style type="text/css" id="wp-custom-css">
